@@ -10,6 +10,7 @@ Experimental Cellular Automata using P5.js - originally hosted on my website
 
 
 
+https://github.com/user-attachments/assets/bf8576a1-90ca-43c2-ad0a-62ce7e5ff635
 
-https://github.com/user-attachments/assets/2558e7fe-9a2e-4502-b68b-d80d66209ed5
+
 
